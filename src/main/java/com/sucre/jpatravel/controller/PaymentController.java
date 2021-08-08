@@ -23,5 +23,7 @@ public class PaymentController {
     public Payment paymentInfo(){
         return  paymentService.getPaymentInfo();
     }
+    
+   
 
 }
